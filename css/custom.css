@@ -1570,8 +1570,8 @@ h1 {
     margin-top: 24px;
     border-radius: 180px 180px 0px 0px;
     background-image: url(../img/logomark_desktop.png);
-    background-size: 60.15% 100%;
-    background-position: center 0;
+    background-size: 60.15% 100.5%;
+    background-position: center -3px;
     background-repeat: no-repeat;
     border-width: 0 20% 0 20%;
     border-image-source: url(../img/logomark_desktop.png);
