@@ -1,10 +1,5 @@
 body {
   font-family: "Nunito", sans-serif;
-  background: url(../img/beans.png);
-  background-position-x: -460%;
-  background-position-y: 50%;
-  background-size: 105%;
-  background-repeat: no-repeat;
 }
 .my-container {
   max-width: 1156px;
@@ -1184,6 +1179,13 @@ h1 {
     line-height: 68px;
     text-align: left;
     margin-top: 90px;
+  }
+  .section1 {
+    background: url(../img/beans.png);
+    background-position-x: calc(50% + 360px);
+    background-position-y: 50%;
+    background-size: 1710px;
+    background-repeat: no-repeat;
   }
   .intro-p {
     font-size: 24px;
