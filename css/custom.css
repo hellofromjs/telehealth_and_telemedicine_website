@@ -118,7 +118,6 @@ h1 {
   padding: 16px 32px;
   justify-content: center;
   align-items: center;
-  gap: 16px;
   border-radius: 24px;
   background: #2f3c33;
 }
@@ -127,6 +126,7 @@ h1 {
   font-size: 18px;
   font-weight: 800;
   letter-spacing: -0.36px;
+  margin-right: 16px;
 }
 .download-btn img {
   width: 24px;
